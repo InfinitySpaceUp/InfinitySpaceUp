@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @InfinitySpaceUp
+- 👀 I’m interested in Automation
+- 🌱 I’m currently learning C++
